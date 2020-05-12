@@ -4,7 +4,7 @@
   "description": "This is an Amazon web bot that tracks prices of items and notifies when the price is met to buy",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
+    "start": "node botMultiple.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ryan Talbert",
